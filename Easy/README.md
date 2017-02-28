@@ -8,5 +8,4 @@
     install.package("countrycode")
 
 # Data reading
-The "species.txt" need to be in the working directory. \n
-Read the input description in the file.
+The "species.txt" need to be in the working directory. Read the input description in the file.
