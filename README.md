@@ -4,5 +4,4 @@ All the tasks need to be run under the latest R version (3.3.2) and with the lat
 
 ## Easy task
 
-This program can show one to ten species occurrence data in the map.
-Moreover, user can choose different country to show the daa
+This program can show one to ten species occurrence data in the map. Moreover, user can choose different country to show the date.
