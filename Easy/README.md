@@ -9,3 +9,6 @@
 
 # Data reading
 The "species.txt" need to be in the working directory. Read the input description in the file.
+
+# Result
+![result](https://github.com/Tim-Yu/Biodiversity-data-cleaning/blob/master/Easy/result%20example.PNG)
