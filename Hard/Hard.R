@@ -18,7 +18,7 @@ library(rgbif)
 library(countrycode)
 library(maps)
 
-CentroidSpices <- function(filename, buffer_range = 8){ #One Buffer_range means about 118km from the border
+CentroidSpices <- function(filename = 'species.txt', buffer_range = 8){ #One Buffer_range means about 118km from the border
         
         
         
