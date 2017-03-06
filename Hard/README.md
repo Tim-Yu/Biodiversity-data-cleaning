@@ -10,7 +10,7 @@
 
 # Data reading
 
-The working directory need to be setwd to the file which contain those files. Read the input description in the file.
+The working directory need to be setwd to the file which contain those files. Read the input description in the file 'species.txt'.
 
 # Methods
 
