@@ -1,0 +1,24 @@
+########################################################################################
+## Write down species you want check on the occurrence data (no more than 10 species).
+## Using comma to separate different species.Do not incloud space between species names!
+## For example 
+##
+## Danaus plexippus,Accipiter striatus,Pinus contorta
+##
+## If you want to see the occurrence in specific country, please write down the country 
+## next to the last specie, using a comma to separate.
+## If you want see the whole world, just do not write the country
+## 
+## !!
+## Because the record number is large, one species per query is recommended
+## !!
+## For example
+##
+## Danaus plexippus,Accipiter striatus,Pinus contorta,Germany
+##
+## Please write below  
+########################################################################################
+
+Pinus contorta,Danaus plexippus,canada
+
+########################################################################################
