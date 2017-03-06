@@ -7,7 +7,7 @@
 #Library
 library(sp)
 library(rgdal)
-#library(maptools)
+library(maptools)
 library(rgeos)
 
 #Library package
@@ -18,7 +18,7 @@ library(rgbif)
 library(countrycode)
 library(maps)
 
-CentroidSpices <- function(filename, buffer_range = 8){
+CentroidSpices <- function(filename, buffer_range = 8){ #One Buffer_range means about 118km from the border
         
         
         
