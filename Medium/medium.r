@@ -8,7 +8,7 @@ library(rgbif)
 #The input of this function is the file pathway and how many records do the user want
 #to check
 
-checkdate <- function(filename = 'species.txt', number = 100){
+checkdate <- function(filename = 'species.txt', number = 10000){
         #Read the species names
         species <- read.table(sep = ",", file = filename)
         species_c <- as.character(species)
