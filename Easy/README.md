@@ -1,11 +1,11 @@
 # Packages which need to be installed
 
-    install.package("rgbif")
-    install.package("ggplot2")
-    install.package("mapr")
-    install.package("spocc")
-    install.package("leaflet")
-    install.package("countrycode")
+    install.packages("rgbif")
+    install.packages("ggplot2")
+    install.packages("mapr")
+    install.packages("spocc")
+    install.packages("leaflet")
+    install.packages("countrycode")
 
 # Data reading
 The "species.txt" need to be in the working directory. Read the input description in the file.
