@@ -1,12 +1,12 @@
 # Packages which need to be installed
 
-    install.package("rgbif")
-    install.package("rgdal")
-    install.package("mapr")
-    install.package("maps")
-    install.package("rgeos")
-    install.package("countrycode")
-    install.package("maptools")
+    install.packages("rgbif")
+    install.packages("rgdal")
+    install.packages("mapr")
+    install.packages("maps")
+    install.packages("rgeos")
+    install.packages("countrycode")
+    install.packages("maptools")
 
 # Data reading
 
