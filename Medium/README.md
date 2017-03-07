@@ -1,7 +1,7 @@
 # Packages which need to be installed
-
-    install.package("rgbif")
-    install.package("countrycode")
+    
+    install.packages("rgbif")
+    install.packages("countrycode")
 
 # Data reading
 
