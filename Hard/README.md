@@ -1,6 +1,6 @@
 # Packages which need to be installed
-
-    install.packages("rgbif")
+    
+    install.packages("rgbif")
     install.packages("rgdal")
     install.packages("mapr")
     install.packages("maps")
