@@ -1,11 +1,11 @@
 # Packages which need to be installed
 
-    install.packages("rgbif")
-    install.packages("ggplot2")
-    install.packages("mapr")
-    install.packages("spocc")
-    install.packages("leaflet")
-    install.packages("countrycode")
+     install.packages("rgbif")
+     install.packages("ggplot2")
+     install.packages("mapr")
+     install.packages("spocc")
+     install.packages("leaflet")
+     install.packages("countrycode")
 
 
 # Data reading
