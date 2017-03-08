@@ -17,6 +17,6 @@ library(rgcd)
 Checkdate("Pinus contorta,Canada", number = 20000)
 
 # This function returns the gbif data with a new column indicating which date is
-# missing.
+# missing and a table showing the eventdate, month and day missing rates.
 
 
