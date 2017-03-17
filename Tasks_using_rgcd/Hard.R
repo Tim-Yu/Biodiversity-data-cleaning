@@ -3,7 +3,7 @@
 # By Boyu Yu(Tim)
 
 # Install the package 
-devtools::install_github("Tim-Yu/rgcd", dependences = TRUE)
+devtools::install_github("Tim-Yu/rgcd", dependencies = TRUE)
 
 library(rgcd)
 
